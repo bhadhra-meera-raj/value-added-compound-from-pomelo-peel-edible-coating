@@ -31,3 +31,17 @@ This work was presented at IIChE SCHEMCON 2025.
 ## Project Presentation
 
 [View Project Presentation](Project%20poster.pptx)
+
+
+## Result
+
+- Designed and optimized a bio-based extraction process for pectin recovery from pomelo peel using Box-Behnken Design (DOE),
+evaluating process parameters using ANOVA and improving yield from 9% to 16%.
+- Performed pectin characterization via FTIR analysis, identifying functional groups (O-H, C=O, C-O-C) to confirm pectin presence.
+- Developed edible coating formulations with an average thickness of 0.5mm and conducted shelf life analysis, extending coated
+fruit preservation by 7 days compared with uncoated ones.
+- Presented research findings at the Indian Institute of Chemical Engineers SCHEMCON 2025 conference through a technical
+research poster communicating experimental methodology, statistical analysis, and results.
+
+
+
