@@ -26,3 +26,5 @@ Pectin was extracted from pomelo peel under controlled experimental conditions. 
 
 ## Research Presentation
 This work was presented at IIChE SCHEMCON 2025.
+
+![Project Poster](Project poster.jpg)
